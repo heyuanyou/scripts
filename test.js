@@ -1,3 +1,3 @@
-function alert(){
+function doAlert(){
   alert("hello world!");
 };
