@@ -16,4 +16,4 @@ $("label[class='c-label c-label--inline s-marginLeft1']").each(function(){
     }
 })
 $('html,body').animate({scrollTop:$('.s-marginTop2').offset().top}, 600);
-setTimeout(function(){ $('.c-button--large')[0].click() }, 9000); //设置延迟9秒自动提交，延迟时间可自己修改
+setTimeout(function(){ $('.c-button--large')[0].click() }, 4000); //设置延迟9秒自动提交，延迟时间可自己修改
